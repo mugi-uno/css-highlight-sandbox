@@ -1,0 +1,11 @@
+.first-word {
+  font-weight: bold;
+}
+
+.text > span {
+  background-color: white !important;
+}
+
+.text::highlight(my-highlight) {
+  background-color: #ff0;
+}
